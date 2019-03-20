@@ -16,21 +16,21 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         LinearLayout linearLayout = findViewById(R.id.linear_layout);
-        linearLayout.addView(addTextView("Big dog"));
-        linearLayout.addView(addTextView("Small dog"));
+        linearLayout.addView(addTextView("Crawfish"));
+        linearLayout.addView(addTextView("Worms"));
         linearLayout.addView(addTextView("Goldfish"));
         linearLayout.addView(addTextView("Turtle"));
         linearLayout.addView(addTextView("Owl"));
         linearLayout.addView(addTextView("Orange cat"));
-        linearLayout.addView(addTextView("Monkey"));
+        linearLayout.addView(addTextView("Orangutan"));
         linearLayout.addView(addTextView("Falcon"));
         linearLayout.addView(addTextView("Squirrel"));
         linearLayout.addView(addTextView("Woodpecker"));
-        linearLayout.addView(addTextView("Whale"));
+        linearLayout.addView(addTextView("Walrus"));
         linearLayout.addView(addTextView("Anteater"));
         linearLayout.addView(addTextView("Butterfly"));
         linearLayout.addView(addTextView("Weevils"));
-        linearLayout.addView(addTextView("Crow"));
+        linearLayout.addView(addTextView("Catfish"));
         linearLayout.addView(addTextView("Cats and dogs"));
         linearLayout.addView(addTextView("Zebra"));
         linearLayout.addView(addTextView("Calico"));
@@ -38,12 +38,12 @@ public class MainActivity extends AppCompatActivity {
         linearLayout.addView(addTextView("German shepherd"));
         linearLayout.addView(addTextView("Poodle"));
         linearLayout.addView(addTextView("Sparrow"));
-        linearLayout.addView(addTextView("Pteradactyl"));
-        linearLayout.addView(addTextView("Hippopatamus"));
+        linearLayout.addView(addTextView("Pterodactyl"));
+        linearLayout.addView(addTextView("Hippopotamus"));
         linearLayout.addView(addTextView("Phoenix"));
         linearLayout.addView(addTextView("Hamster"));
         linearLayout.addView(addTextView("Panther"));
-        linearLayout.addView(addTextView("Giraffe"));
+        linearLayout.addView(addTextView("Gnat"));
         linearLayout.addView(addTextView("Rabbit"));
 
     }
